@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NServiceBus;
 
 namespace OneWayMessaging.Contracts.Commands
 {
-    public class PlaceOrder
+    public class PlaceOrder 
     {
         public Guid OrderId { get; set; }
         public Guid ProductId { get; set; }

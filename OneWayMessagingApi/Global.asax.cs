@@ -24,6 +24,7 @@ namespace OneWayMessagingApi
                  .DefaultBuilder()
                  .UnicastBus()
                  .PurgeOnStartup(false)
+                 .UseTransport<NServiceBus.RabbitMQ>(() => "host=localhost")
                  .DefiningCommandsAs(t => t.Namespace != null && t.Namespace.EndsWith("Commands"))
                  .SendOnly();
         }
