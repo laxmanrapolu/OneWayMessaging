@@ -1,0 +1,4 @@
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\bin\Debug\OneWayMessaging.Contracts.dll
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\bin\Debug\OneWayMessaging.Contracts.pdb
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.dll
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.pdb

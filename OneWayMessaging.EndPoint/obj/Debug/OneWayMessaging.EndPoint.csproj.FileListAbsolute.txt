@@ -1,0 +1,15 @@
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\OneWayMessaging.EndPoint.dll.config
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\OneWayMessaging.EndPoint.dll
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\OneWayMessaging.EndPoint.pdb
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.Core.dll
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.dll
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.Host.exe
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.pdb
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.xml
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.Core.pdb
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.Core.xml
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.Host.pdb
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\bin\Debug\NServiceBus.Host.xml
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\obj\Debug\OneWayMessaging.EndPoint.csprojResolveAssemblyReference.cache
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\obj\Debug\OneWayMessaging.EndPoint.dll
+C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.EndPoint\obj\Debug\OneWayMessaging.EndPoint.pdb
