@@ -14,6 +14,7 @@ namespace OneWayMessaging.EndPoint.Handlers
     {
         public void Handle(PlaceOrder message)
         {
+           // throw new Exception("Test exception");
            Console.WriteLine("Order received {0}", message.OrderId);
         }
     }
