@@ -21,20 +21,25 @@ namespace OneWayMessaging.EndPoint.Handlers
         }
         public void Handle(PlaceOrder message)
         {
-           // throw new Exception("Test exception");
-           Console.WriteLine("Order received with Id : {0}", message.OrderId);
-
-          #region FullDuplex
-
-            var confirmPurchase = new ConfirmPurchase()
-            {
-                OrderId = message.OrderId,
-                CustomerId = message.CustomerId
-            };
-
-            Bus.Send(confirmPurchase);
-
+           #region FaultTolerance
+            // throw new Exception("Test exception");
             #endregion
+            
+           Console.WriteLine("Order received with Id : {0}", message.OrderId);
+           Console.WriteLine("");
+
+           #region FullDuplex
+
+           var confirmPurchase = new ConfirmPurchase()
+           {
+               OrderId = message.OrderId,
+               CustomerId = message.CustomerId
+           };
+           Console.WriteLine("Sending Confirm Purchase request");
+           Console.WriteLine("");
+           Bus.Send(confirmPurchase);
+
+           #endregion
         }
     }
 }

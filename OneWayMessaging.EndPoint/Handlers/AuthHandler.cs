@@ -22,10 +22,12 @@ namespace OneWayMessaging.EndPoint.Handlers
             if (application == "quoting")
             {
                 Console.WriteLine("Authentication failed");
+                Console.WriteLine("");
                 _bus.DoNotContinueDispatchingCurrentMessageToHandlers();
                 return;
             }
             Console.WriteLine("User Authenticated");
+            Console.WriteLine("");
         }
     }
 }

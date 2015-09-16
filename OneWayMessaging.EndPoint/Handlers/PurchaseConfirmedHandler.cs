@@ -14,6 +14,7 @@ namespace OneWayMessaging.EndPoint.Handlers
         public void Handle(PurchaseConfirmed message)
         {
             Console.WriteLine("Received reply from full duplex on purchase confirmation with receipt no {0}", message.ReceiptId);
+            Console.WriteLine("");
         }
     }
 }

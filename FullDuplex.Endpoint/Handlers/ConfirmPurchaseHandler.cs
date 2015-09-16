@@ -20,6 +20,7 @@ namespace FullDuplex.Endpoint.Handlers
         public void Handle(ConfirmPurchase message)
         {
             Console.WriteLine("Confirming Purchase for Customer {0} with Order Id {1}", message.CustomerId, message.OrderId);
+            Console.WriteLine("");
 
             #region Reply
 
@@ -28,15 +29,11 @@ namespace FullDuplex.Endpoint.Handlers
                 CustomerId = message.CustomerId,
                 ReceiptId = Guid.NewGuid()
             };
-            try
-            {
+            
                 Bus.Reply(purchaseConfirmed);
-            }
-            catch (Exception ex)
-            {
-                
-          Console.WriteLine(ex);
-            }
+                Console.WriteLine("Sent reply back");
+           
+          
             
 
             #endregion
