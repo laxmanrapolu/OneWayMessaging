@@ -1,12 +1,8 @@
-C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\bin\Debug\OneWayMessaging.Contracts.dll
-C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\bin\Debug\OneWayMessaging.Contracts.pdb
-C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.dll
-C:\Users\rapolul\Desktop\Nservicebus\OneWayMessagingApi\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.pdb
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\bin\Debug\OneWayMessaging.Contracts.dll
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\bin\Debug\OneWayMessaging.Contracts.pdb
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\bin\Debug\NServiceBus.dll
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\bin\Debug\NServiceBus.pdb
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\bin\Debug\NServiceBus.xml
+C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.csprojResolveAssemblyReference.cache
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.dll
 C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.pdb
-C:\MyRepo\OneWayMessaging\OneWayMessaging.Contracts\obj\Debug\OneWayMessaging.Contracts.csprojResolveAssemblyReference.cache

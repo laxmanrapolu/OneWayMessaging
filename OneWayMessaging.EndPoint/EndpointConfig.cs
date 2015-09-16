@@ -11,7 +11,10 @@ namespace OneWayMessaging.EndPoint
     {
 	    public void Init()
 	    {
-	        Configure.With().DefiningCommandsAs(t => t.Namespace != null && t.Namespace.EndsWith("Commands"));
+	        Configure.With()
+                .DefiningCommandsAs(t => t.Namespace != null && t.Namespace.EndsWith("Commands"))
+                .DefiningMessagesAs(t => t.Namespace == "FullDuplex.Contracts.Messages")
+                .DefineEndpointName("OneWayMessaging.EndPoint");
 
 	    }
 

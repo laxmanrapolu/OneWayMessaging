@@ -1,0 +1,5 @@
+C:\MyRepo\OneWayMessaging\FullDuplex.Contracts\bin\Debug\FullDuplex.Contracts.dll
+C:\MyRepo\OneWayMessaging\FullDuplex.Contracts\bin\Debug\FullDuplex.Contracts.pdb
+C:\MyRepo\OneWayMessaging\FullDuplex.Contracts\obj\Debug\FullDuplex.Contracts.csprojResolveAssemblyReference.cache
+C:\MyRepo\OneWayMessaging\FullDuplex.Contracts\obj\Debug\FullDuplex.Contracts.dll
+C:\MyRepo\OneWayMessaging\FullDuplex.Contracts\obj\Debug\FullDuplex.Contracts.pdb

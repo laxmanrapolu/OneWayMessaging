@@ -19,7 +19,7 @@ namespace OneWayMessaging.EndPoint.Handlers
         public void Handle(PlaceOrder message)
         {
             var application = _bus.GetMessageHeader(message, "application");
-            if (application != "quoting")
+            if (application == "quoting")
             {
                 Console.WriteLine("Authentication failed");
                 _bus.DoNotContinueDispatchingCurrentMessageToHandlers();
