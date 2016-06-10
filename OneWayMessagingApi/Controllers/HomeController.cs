@@ -14,5 +14,12 @@ namespace OneWayMessagingApi.Controllers
 
             return View();
         }
+
+        public string Test()
+        {
+            ViewBag.Title = "Home Page";
+
+            return null;
+        }
     }
 }
